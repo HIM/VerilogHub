@@ -2,5 +2,3 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Develop/Vivado/VivadoHub/led_wat
 INFO: [VRFC 10-311] analyzing module led_run
 INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Develop/Vivado/VivadoHub/led_water_run/led_water_run.srcs/sim_1/new/led_run_sim.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module led_run_sim
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Develop/Vivado/VivadoHub/led_water_run/led_water_run.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
